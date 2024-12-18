@@ -1,0 +1,27 @@
+using System;
+
+namespace Program
+{
+    class main
+    {
+        public static int sum(int a, int b)
+        {
+            return a + b;
+        }
+
+        public static int mult(int a, int b)
+        {
+            return a * b;
+        }
+        public static void main(String[] args)
+        {
+            
+            int a = 2;
+            int b = 1;
+
+            Console.WriteLine(sum(a, b));           
+            Console.WriteLine(mult(a, b));          
+            Console.WriteLine(sum(a, b) + mult(a, b));  
+        }
+    }
+}

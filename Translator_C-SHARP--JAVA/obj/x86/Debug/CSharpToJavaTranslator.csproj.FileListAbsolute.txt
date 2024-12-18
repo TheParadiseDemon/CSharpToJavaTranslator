@@ -1,0 +1,11 @@
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\bin\Debug\WindowsApplication.exe.config
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\bin\Debug\WindowsApplication.exe
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\bin\Debug\WindowsApplication.pdb
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.CustomMessageBox.resources
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.CustomRichTextBox.resources
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.mainForm.resources
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.csproj.GenerateResource.cache
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\CSharpToJavaTranslator.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\WindowsApplication.exe
+C:\Users\Дмитрий\Desktop\документы\компиляторы\Translator_C-SHARP--JAVA\obj\x86\Debug\WindowsApplication.pdb
