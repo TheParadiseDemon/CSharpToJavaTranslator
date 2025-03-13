@@ -1,0 +1,22 @@
+using System;
+namespace Test{
+class Program
+{
+  static void Main()
+  {
+    try
+    {
+      int[] arr = new int[2];
+      arr[5] = 10;
+    }
+    catch (IndexOutOfRangeException ex);
+    {
+       Console.Writeln("Caught exception ", ex(Message));
+    }
+    finally
+    {
+       Console.Writeln("There was no exception.");
+    }
+  }
+}
+}

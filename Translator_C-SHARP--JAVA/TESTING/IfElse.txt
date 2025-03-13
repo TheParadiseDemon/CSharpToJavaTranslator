@@ -1,0 +1,21 @@
+using System;
+
+namespace Program
+{
+    class main
+    {
+        public static int more(int a, int b)
+        {
+            if (a > b) return a;
+            else return b;
+        }
+        public static void main(String[] args)
+        {
+            
+            int a = 1;
+            int b = 2;
+
+            Console.WriteLine(more(a, b));           
+        }
+    }
+}

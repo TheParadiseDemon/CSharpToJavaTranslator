@@ -1,0 +1,23 @@
+using System;
+namespace Program
+{
+    class main
+     {
+              public  static  void main(String[] args)
+        {
+
+            Teststruct t= new Teststruct();
+            Console.WriteLine(t.testStr);
+
+        }
+         
+         public  static  class Teststruct{
+       
+              public   string testStr = "hello dima";
+         }
+
+
+
+           }
+
+}
